@@ -1,0 +1,8 @@
+spring:
+  cloud:
+    gateway:
+      routes:
+        - id: service
+          uri: http://localhost:8082 # should be able to make this a random port
+          predicates:
+            - Path=/service/**
