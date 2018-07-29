@@ -5,5 +5,5 @@ An example project for the above issue.
 #### Run the example
 
 ```shell
-$>  mvn clean verify
+$>  mvn clean test
 ```
