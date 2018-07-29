@@ -1,4 +1,4 @@
-# [Spring-Cloud-Gateway-Issue-409](https://github.com/spring-cloud/spring-cloud-gateway/issues/409)
+# [spring-cloud-gateway/issues/409](https://github.com/spring-cloud/spring-cloud-gateway/issues/409)
 
 An example project for the above issue.
 
